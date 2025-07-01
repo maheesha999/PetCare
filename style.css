@@ -662,6 +662,12 @@ body {
   overflow-y: hidden;
 }
 
+
+.navbar-link {
+  margin-left: 40px;
+  
+}
+
 .navbar.active {
   transform: translateX(320px);
   transition-timing-function: var(--cubic-in);
@@ -671,6 +677,7 @@ body {
   color: var(--eerie-black);
   font-size: var(--fs-6);
   padding: 10px 15px;
+  
 }
 
 .navbar-action-btn {
@@ -685,6 +692,8 @@ body {
   text-transform: uppercase;
   text-align: center;
 }
+
+
 
 /*-----------------------------------*\
   #HERO
