@@ -662,12 +662,6 @@ body {
   overflow-y: hidden;
 }
 
-
-.navbar-link {
-  margin-left: 40px;
-  
-}
-
 .navbar.active {
   transform: translateX(320px);
   transition-timing-function: var(--cubic-in);
